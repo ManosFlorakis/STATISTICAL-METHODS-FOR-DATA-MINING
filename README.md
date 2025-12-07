@@ -1,1 +1,1 @@
-# STATISTICAL-METHODS-FOR-DATA-MINING
+# Statistical Methods for Data Mining
